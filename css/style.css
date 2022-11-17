@@ -124,6 +124,10 @@
     margin-bottom: 10px;
 }
 
+.description {
+    text-align: justify;
+}
+
 #btn-projects {
     font-weight: bold;
     font-size: 16px;
